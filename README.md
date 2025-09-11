@@ -1,3 +1,10 @@
+List of installs for plugins used:
+npm i react-native-reanimated@latest
+npm i react-native-gesture-handler react-native-screens react-native-safe-area-context
+npm i @react-navigation/native @react-navigation/native-stack
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
