@@ -8,16 +8,16 @@ npm i @react-navigation/native @react-navigation/native-stacka
 3) Link - [github project](https://github.com/braindeadLee/React-Native-Android-Spotify-App-Project)
 4) Subject : IT5103N - Group2 - Advanced Mobile Development
 
-#Screenshots
+# Screenshots
 
-1. Home Screen
-![alt text](ScreenshotImages\day1-homescreen.png)
+1. Home Screen  
+![Home Screen](./ScreenshotImages/day1-homescreen.png)
 
-2. Button "Tap Me"
-![alt text](ScreenshotImages\day1-buttontapme.png)
+2. Button "Tap Me"  
+![Tap Me](./ScreenshotImages/day1-buttontapme.png)
 
-3. Button Pressed With Popup
-![alt text](ScreenshotImages\day1-buttonpressed.png)
+3. Button Pressed With Popup  
+![Pressed](./ScreenshotImages/day1-buttonpressed.png)
 
-4. Scrolling Down the App
-![alt text](ScreenshotImages\day1-scrolleddown.png)
+4. Scrolling Down the App  
+![Scrolled](./ScreenshotImages/day1-scrolleddown.png)
