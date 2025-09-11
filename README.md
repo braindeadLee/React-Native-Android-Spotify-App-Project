@@ -11,13 +11,13 @@ npm i @react-navigation/native @react-navigation/native-stacka
 #Screenshots
 
 1. Home Screen
-(ScreenshotImages\day1-homescreen.png)
+![alt text](ScreenshotImages\day1-homescreen.png)
 
 2. Button "Tap Me"
-(ScreenshotImages\day1-buttontapme.png)
+![alt text](ScreenshotImages\day1-buttontapme.png)
 
 3. Button Pressed With Popup
-(ScreenshotImages\day1-buttonpressed.png)
+![alt text](ScreenshotImages\day1-buttonpressed.png)
 
 4. Scrolling Down the App
-(ScreenshotImages\day1-scrolleddown.png)
+![alt text](ScreenshotImages\day1-scrolleddown.png)
