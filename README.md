@@ -1,7 +1,7 @@
 List of installs for plugins used:
 npm i react-native-reanimated@latest
 npm i react-native-gesture-handler react-native-screens react-native-safe-area-context
-npm i @react-navigation/native @react-navigation/native-stack
+npm i @react-navigation/native @react-navigation/native-stacka
 
 
 
