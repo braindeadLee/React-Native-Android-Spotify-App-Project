@@ -23,6 +23,7 @@ npm install react-native-vector-icons
 3) Link - [github project](https://github.com/braindeadLee/React-Native-Android-Spotify-App-Project)
 4) Subject : IT5103N - Group2 - Advanced Mobile Development
 
+Week 1-2
 # Screenshots
 
 1. Home Screen  
@@ -36,3 +37,9 @@ npm install react-native-vector-icons
 
 4. Scrolling Down the App  
 ![Scrolled](./ScreenshotImages/day1-scrolleddown.png)
+
+Week 3 
+
+"Write a 3–4 sentence note summarizing gesture functionality, transition effects, and persistence behavior."
+
+The app now supports intuitive gesture functionality, allowing users to swipe from the left edge to open or close the drawer and tap items like playlists for navigation. Smooth transition effects enhance user experience with a fade animation for the Sign-Up screen and a slide transition for Settings, powered by React Native Reanimated. Nvigation persistence is implemented using AsyncStorage, saving the last visited screen and restoring it on app launch to represent the user's login staying persistent.

@@ -4,6 +4,9 @@ import { DrawerContentScrollView, DrawerItem, DrawerContentComponentProps } from
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 
 export default function ProfileDrawerContent(props: DrawerContentComponentProps) {
+
+  const { navigation } = props;
+
   return (
     <DrawerContentScrollView {...props} contentContainerStyle={{ backgroundColor: '#121212', paddingTop: 40 }}>
       <Text style={{ color: '#fff', fontWeight: '700', fontSize: 18, marginLeft: 16, marginBottom: 8 }}>
@@ -20,7 +23,7 @@ export default function ProfileDrawerContent(props: DrawerContentComponentProps)
       />
       <DrawerItem
         label="Playlists"
-        onPress={() => {}}
+        onPress={() => {navigation.navigate('PlaylistDetail')}}
         labelStyle={{ color: '#fff' }}
         icon={({ color, size }) => (
           <MaterialCommunityIcons name="playlist-music-outline" size={size} color={color || '#b3b3b3'} />
@@ -28,7 +31,7 @@ export default function ProfileDrawerContent(props: DrawerContentComponentProps)
       />
       <DrawerItem
         label="Settings"
-        onPress={() => {}}
+        onPress={() => {navigation.navigate('Settings')}}
         labelStyle={{ color: '#fff' }}
         icon={({ color, size }) => (
           <MaterialCommunityIcons name="cog-outline" size={size} color={color || '#b3b3b3'} />
