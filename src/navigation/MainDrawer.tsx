@@ -13,7 +13,7 @@ export default function MainDrawer() {
     <Drawer.Navigator
         screenOptions={{
             //Colors
-            drawerStyle: { backgroundColor: '#121212' },
+            drawerStyle: { backgroundColor: '#121211' },
             headerStyle: { backgroundColor: '#121212' },
             headerTintColor: '#fff',
             headerTitleStyle: { color: '#fff' },

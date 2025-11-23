@@ -16,6 +16,6 @@ export default function PlaylistDetailScreen() {
 
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: '#121212', justifyContent: 'center', alignItems: 'center' },
-  title: { color: '#fff', fontSize: 28, fontWeight: 'bold', marginBottom: 10 },
+  title: { color: '#ffff', fontSize: 28, fontWeight: 'bold', marginBottom: 10 },
   subtitle: { color: '#ccc', fontSize: 16 },
 });

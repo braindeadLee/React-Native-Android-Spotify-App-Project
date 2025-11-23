@@ -14,7 +14,7 @@ export default function RootNavigator() {
   return (
     <Stack.Navigator
       screenOptions={{
-        contentStyle: { backgroundColor: '#121212' },
+        contentStyle: { backgroundColor: '#121211' },
         headerShown: false,
       }}
     >

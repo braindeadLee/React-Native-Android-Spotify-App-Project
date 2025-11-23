@@ -43,7 +43,7 @@ export default function PlaylistsScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, backgroundColor: '#121212', padding: 20 },
+  container: { flex: 1, backgroundColor: '#121211', padding: 20 },
   title: { color: '#fff', fontSize: 24, fontWeight: 'bold', marginBottom: 20 },
   playlistItem: {
     paddingVertical: 15,

@@ -24,7 +24,7 @@ export default function ProfileDrawerContent(props: DrawerContentComponentProps)
       <DrawerItem
         label="Playlists"
         onPress={() => {navigation.navigate('PlaylistDetail')}}
-        labelStyle={{ color: '#fff' }}
+        labelStyle={{ color: '#ffff' }}
         icon={({ color, size }) => (
           <MaterialCommunityIcons name="playlist-music-outline" size={size} color={color || '#b3b3b3'} />
         )}

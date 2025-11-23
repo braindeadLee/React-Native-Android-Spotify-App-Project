@@ -21,7 +21,7 @@ export default function LoginScreen() {
 }
 
 const styles = StyleSheet.create({
-  bg: { flex: 1, backgroundColor: '#121212' },
+  bg: { flex: 1, backgroundColor: '#121211' },
   safe: {
     flex: 1,
     alignItems: 'center',

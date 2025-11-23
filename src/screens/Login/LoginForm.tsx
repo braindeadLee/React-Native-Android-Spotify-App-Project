@@ -66,7 +66,7 @@ export default function LoginForm() {
 
       <View style={styles.socialRow}>
         <SocialCircle icon="facebook" onPress={() => {}} />
-        <View style={{ width: 16 }} />
+        <View style={{ width: 15 }} />
         <SocialCircle icon="google" onPress={() => {}} />
       </View>
 
